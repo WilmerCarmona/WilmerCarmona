@@ -18,7 +18,7 @@
 
 - :school: I am a `Technologist` at [Centro industrial y aviación](https://industrialyaviacionatlco.blogspot.com/) in [SENA](https://oferta.senasofiaplus.edu.co/sofia-oferta/)
 - :technologist: **I'm currently improving my skills in** `Frontend Development`, `Backend Development` **&** `Database`
-- :boom: You can visit [MY WEBSITE](ESTOY TRABAJANDO EN ESO) for some frontend knowledge
+- :boom: I'M WORKING ON MY WEBSITE
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Wilmercarmona&amp;color=EA4335&amp;style=flat-square)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/wilmercarmona810%40gmail.com?compose=new)
 - :nerd_face: Always believe `"Be disciplined and trust the process."`
 
@@ -28,7 +28,7 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white)
