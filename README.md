@@ -10,7 +10,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Technologist` at [Centro industrial y aviación](https://industrialyaviacionatlco.blogspot.com/) in [SENA](https://oferta.senasofiaplus.edu.co/sofia-oferta/)
+- :school: I have a Software Analysis and Development Technologist
 - :technologist: **I'm currently improving my skills in** `Frontend Development`, `Backend Development` **&** `Database`
 - :boom: I'M WORKING ON MY WEBSITE
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=wilmercarmona810@gmail.com&amp;color=EA4335&amp;style=flat-square)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/wilmercarmona810%40gmail.com?compose=new)
