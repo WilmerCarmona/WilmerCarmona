@@ -74,11 +74,11 @@
 
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <!-- Apache -->
-  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg"
-      alt="apache" width="40" height="40" />
-  </a>
+  <!-- postgresql -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+     alt="postgresql" width="40" height="40" />
+ </a>
 
   <!-- Oracle -->
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
@@ -123,4 +123,4 @@
 
 
 
-Last Edited on: 01/06/2025
+Last Edited on: 02/06/2025
