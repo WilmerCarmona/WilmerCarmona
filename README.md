@@ -114,18 +114,19 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <!-- Visual Studio Code -->
+  <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"
-      alt="Visual Studio Code" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+      alt="vscode" width="40" height="40" />
   </a>
 
   <!-- Xcode -->
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white"
-      alt="Xcode" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/xcode.svg"
+      alt="xcode" width="40" height="40" />
   </a>
 </div>
+
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
