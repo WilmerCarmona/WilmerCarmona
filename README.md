@@ -120,11 +120,12 @@
       alt="vscode" width="40" height="40" />
   </a>
 
-  <!--  -->
-  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublime/sublime-original.svg"
-    alt="sublime text" width="40" height="40" />
-</a>
+  <!-- atom -->
+  <a href="https://atom.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg"
+    alt="atom" width="40" height="40" />
+  </a>
+ 
 
  
 </div>
@@ -149,4 +150,4 @@
 
 
 
-Last Edited on: 02/06/2025
+Last Edited on: 08/06/2025
