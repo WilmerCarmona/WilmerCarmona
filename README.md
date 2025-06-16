@@ -123,7 +123,7 @@
   <!-- atom -->
   <a href="https://atom.io/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg"
-    alt="atom" width="40" height="4" />
+    alt="atom" width="40" height="40" />
   </a>
  
 
