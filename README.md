@@ -142,14 +142,14 @@
 
 <!-- Windows -->
 <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"
-       alt="Windows" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"
+       alt="Windows" width="40" height="40" />
 </a>
 
 <!-- Ubuntu -->
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"
-       alt="Ubuntu" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"
+       alt="Ubuntu" width="40" height="40" />
 </a>
 <br>
 
