@@ -148,9 +148,10 @@
 
 <!-- Ubuntu -->
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"
        alt="Ubuntu" width="40" height="40" />
 </a>
+
 <br>
 
 
@@ -166,4 +167,4 @@
 
 
 
-Last Edited on: 15/06/2025
+Last Edited on: 17/07/2025
